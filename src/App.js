@@ -20,7 +20,8 @@ function App() {
               fontSize: '20px',
             }}
           >
-            Click Me Carlos, Rodney, Vale, and last but not least... Abel 🙏🏼{' '}
+            Click Me, Carlos, Rodney, Vale, and last but not least... Abel 🙏🏼I
+            shall be the vector to fulfill your gambling vice.{' '}
           </button>
         </a>
       </header>
