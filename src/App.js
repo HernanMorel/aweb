@@ -13,8 +13,14 @@ function App() {
           href="https://pr-1176.d1gfrv5ovpw117.amplifyapp.com/apostala?ci=1234567"
           referrerPolicy="origin"
         >
-          <button>
-            Click Me Carlos, Rodney, Vale, and last but not least... Abel
+          <button
+            style={{
+              height: '60px',
+              width: '450px',
+              fontSize: '20px',
+            }}
+          >
+            Click Me Carlos, Rodney, Vale, and last but not least... Abel 🙏🏼{' '}
           </button>
         </a>
       </header>
