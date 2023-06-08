@@ -21,7 +21,6 @@ function App() {
             }}
           >
             Click Me, Carlos, Rodney, Vale, and last but not least... Abel
-            <img src="/public/imageKid.jpg" alt="Kid" />
           </button>
         </a>
       </header>
