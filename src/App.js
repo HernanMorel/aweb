@@ -32,6 +32,7 @@ function App() {
               height: '60px',
               width: '350px',
               fontSize: '20px',
+              marginTop: '13px',
             }}
           >
             For tests on FRONT-62 Error Re-direction Task, click me.
