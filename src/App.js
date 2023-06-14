@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './meme.jpg';
 import './App.css';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           <button
             style={{
               height: '60px',
-              width: '350px',
+              width: '480px',
               fontSize: '20px',
             }}
           >
@@ -30,12 +30,12 @@ function App() {
           <button
             style={{
               height: '60px',
-              width: '350px',
+              width: '480px',
               fontSize: '20px',
-              marginTop: '13px',
+              marginTop: '15px',
             }}
           >
-            For tests on FRONT-62 Error Re-direction Task, click me.
+            For tests on FRONT-62 Error Redirection Task, click me.
           </button>
         </a>
       </header>
