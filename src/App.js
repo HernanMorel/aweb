@@ -11,7 +11,7 @@ function App() {
         </div>
 
         <a
-          href="https://pr-1203.d1gfrv5ovpw117.amplifyapp.com/apostala?ci=1234567"
+          href="https://pr-1204.d1gfrv5ovpw117.amplifyapp.com/apostala?ci=1234567"
           referrerPolicy="origin"
         >
           <button
