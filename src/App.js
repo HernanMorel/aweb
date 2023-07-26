@@ -1,4 +1,4 @@
-import logo from './meme.jpg';
+import logo from './clos.jpg';
 import './App.css';
 
 function App() {
@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div>
-          <h1>I identify as Aposta.la</h1>
+          <h1>Aposta.la tests</h1>
         </div>
 
         <a
-          href="https://pr-1204.d1gfrv5ovpw117.amplifyapp.com/apostala?ci=1234567"
+          href="https://apostala.d1gfrv5ovpw117.amplifyapp.com/apostala?ci=1234567"
           referrerPolicy="origin"
         >
           <button
@@ -22,7 +22,7 @@ function App() {
               marginTop: '15px',
             }}
           >
-            For tests on FRONT-20 Finalized Payments, click me.
+            Solo para Carlos
           </button>
         </a>
       </header>
